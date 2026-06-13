@@ -28,7 +28,8 @@ The Hospital Management System is an Excel-based solution built to help healthca
 
 ## Dashboard Preview
 
-![Hospital Management Dashboard](dashboard.png)
+<img src="Dashboard.png" alt="Project Logo" width="700">
+
 
 ## Notes
 
